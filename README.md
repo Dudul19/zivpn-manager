@@ -48,6 +48,13 @@ If you want to remove Zivpn from your server, you can do so through the menu or 
 wget -q https://raw.githubusercontent.com/dudul19/zivpn-manager/main/uninstall.sh && chmod +x uninstall.sh && ./uninstall.sh
 ```
 
+### Donation
+<div align="left">
+  <a href="https://saweria.co/dudulrealnofek">
+    <img src="https://img.shields.io/badge/Saweria-Donasi%20/%20Dukung%20Karya-F47C20?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Saweria Donasi">
+  </a>
+</div>
+
 <div align="center">
 
   `made with 🤍 from Mr Dudul`
